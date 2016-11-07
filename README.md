@@ -51,6 +51,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
  * ทดลอง Build และ Run โปรแกรม
  * บันทึกผลที่ได้
+ ![](https://github.com/IAMSUPERE/LAB-09/blob/master/imgs/lab91.jpg)
 
 ###2.5.	การทดลองย่อย 2  การใช้สี
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
@@ -90,3 +91,9 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
+![](https://github.com/IAMSUPERE/LAB-09/blob/master/imgs/lab92.jpg)
+![](https://github.com/IAMSUPERE/LAB-09/blob/master/imgs/lab93.jpg)
+![](https://github.com/IAMSUPERE/LAB-09/blob/master/imgs/lab94.jpg)
+![](https://github.com/IAMSUPERE/LAB-09/blob/master/imgs/lab95.jpg)
+![](https://github.com/IAMSUPERE/LAB-09/blob/master/imgs/lab96.jpg)
+![](https://github.com/IAMSUPERE/LAB-09/blob/master/imgs/lab97.jpg)
